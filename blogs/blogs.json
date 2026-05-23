@@ -1,0 +1,30 @@
+{
+  "repo": "ballard-spahr",
+  "feeds": [
+    {
+      "source": "https://www.consumerfinancemonitor.com",
+      "feed_url": "https://www.consumerfinancemonitor.com/feed/",
+      "title": "Consumer Finance Monitor",
+      "description": "CFPB, Federal Agencies, State Agencies, and Attorneys General",
+      "format": "RSS 2.0",
+      "saved": 0,
+      "error": ""
+    },
+    {
+      "source": "https://www.ballardspahr.com/insights/blogs/cyberadviser",
+      "feed_url": "",
+      "title": "CyberAdviser",
+      "saved": 0,
+      "error": "no_feed_discovered"
+    },
+    {
+      "source": "https://www.ballardspahr.com/insights/blogs/hr-law-watch",
+      "feed_url": "",
+      "title": "HR Law Watch",
+      "saved": 0,
+      "error": "no_feed_discovered"
+    }
+  ],
+  "fetched": "2026-05-23T00:00:00Z",
+  "post_count": 0
+}
