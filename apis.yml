@@ -61,6 +61,8 @@ tags:
   - White Collar Defense
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/ballard-spahr-domain-security.yml
   - type: Website
     url: https://www.ballardspahr.com
   - type: About
