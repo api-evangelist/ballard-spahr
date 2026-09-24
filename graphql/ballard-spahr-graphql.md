@@ -1,1 +1,0 @@
-# Ballard Spahr GraphQL API
