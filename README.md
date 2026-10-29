@@ -1,4 +1,4 @@
-# Ballard Spahr (ballard-spahr)
+# Ballard Spahr
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,106 +66,84 @@
 
 Ballard Spahr LLP is a national U.S. law firm founded in 1885 and headquartered in Philadelphia. Following its January 1, 2025 combination with Seattle-based Lane Powell, the firm operates as a "nationally recognized firm of more than 750 lawyers across 18 U.S. offices" with departments in Business and Transactions, Finance, Intellectual Property, Litigation, and Real Estate. The firm has historic depth in consumer financial services, real estate, public finance, and IP, and runs widely read thought-leadership properties including the Consumer Finance Monitor blog (with public RSS feed) and the Business Better podcast. Ballard Spahr does not expose any public developer API, SDK, OpenAPI spec, or developer portal — its only machine-readable surface is the Consumer Finance Monitor RSS feed.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/ballard-spahr/refs/heads/main/apis.yml)
+**Areas:** Banking · Bankruptcy · Class Action · Commercial Litigation · Consumer Financial Services · Corporate · CFPB · Cybersecurity · Privacy · Employment Law · Environmental · ESG
 
-## Scope
+## Ballard Spahr on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
-- **Classification:** Company
+Everything profiled for Ballard Spahr is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ballard-spahr/](https://apis.io/providers/ballard-spahr/)** — or go straight to one of the APIs or properties below.
 
-## Firm Profile
+### Published properties
 
-- **Founded:** 1885
-- **Headquarters:** 1735 Market Street, Philadelphia, Pennsylvania
-- **Chair:** Peter V. Michaud (currently serving second consecutive three-year term)
-- **Lawyers:** 750+ (post-Lane Powell combination)
-- **Offices:** 18 (post-Lane Powell combination; 19 listed on offices page including Sioux Falls)
-- **Revenue:** $484 million USD (2024, pre-Lane Powell — source: Wikipedia)
-- **Structure:** Limited Liability Partnership (LLP)
-- **Positioning:** "National Strategic Law Partners"
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Departments
+#### GraphQL (1)
 
-- Business and Transactions
-- Finance
-- Intellectual Property
-- Litigation
-- Real Estate
+GraphQL schemas.
 
-## Practice Areas (selected)
+- [Moved to /providers/ballard-spahr/](https://apis.io/graphqls/ballard-spahr/ballard-spahr-graphql/)
 
-Anti-Money Laundering, Bankruptcy and Restructuring, Class Action Litigation, Commercial Finance, Commercial Litigation and Dispute Resolution, Construction, Consumer Financial Services, Corporate, Corporate Real Estate, Eminent Domain, Employee Benefits and Executive Compensation, Environmental, Government Affairs and Public Policy, Immigration, Intellectual Property Litigation, Investment Management, Labor and Employment, Mergers and Acquisitions, Mixed-Use Development, Patents, Privacy and Data Security, Private Equity, Product Liability and Mass Tort, Public Finance, Real Estate Development and Property Rights, Real Estate Finance, Real Estate Transactions and Investments, REITs, Securities and Capital Markets, Securities Enforcement and Corporate Governance Litigation, Tax, Trademarks and Copyrights, White Collar Defense and Investigations, Zoning and Land Use.
+#### Security (1)
 
-## Industries Served
+Authentication, trust centre, and vulnerability disclosure.
 
-Agribusiness, Banking, Education, Energy, Gaming, Healthcare, Hospitality, Manufacturing, Real Estate, Technology.
+- [Ballard Spahr Domain Security](https://apis.io/security/ballard-spahr/ballard-spahr-domain-security/)
 
-## Strategic Initiatives
+## Where to find this API
 
-Artificial Intelligence, Blockchain Technology, Climate Change, Cryptocurrency, ESG.
-
-## Office Locations
-
-Anchorage, Atlanta, Baltimore, Boulder, Delaware, Denver, Las Vegas, Los Angeles, Minneapolis, New Jersey, New York, Philadelphia, Phoenix, Portland, Salt Lake City, San Francisco, Seattle, Sioux Falls, Washington DC.
-
-## Mergers and Acquisitions
-
-| Year | Firm | Location |
-|---|---|---|
-| 2008 | Needle & Rosenberg | Atlanta |
-| 2013 | Stillman & Friedman | New York |
-| 2017 | Levine Sullivan Koch & Schulz | Media / First Amendment |
-| 2018 | Lindquist & Vennum | Minneapolis |
-| 2025-01-01 | Lane Powell | Seattle / Pacific Northwest |
-
-The Lane Powell combination, effective January 1, 2025, formed "a nationally recognized firm of more than 750 lawyers across 18 U.S. offices."
-
-## Thought Leadership
-
-### Blogs
-
-- **[Consumer Finance Monitor](https://www.consumerfinancemonitor.com)** — CFPB, federal agencies, state agencies, and attorneys general. Produced by the Consumer Financial Services Group (practice leaders Daniel JT McKenna, John D. Socknat). **RSS:** https://www.consumerfinancemonitor.com/feed/
-- **[CyberAdviser](https://www.ballardspahr.com/insights/blogs/cyberadviser)** — privacy, data security, cybersecurity law.
-- **[HR Law Watch](https://www.ballardspahr.com/insights/blogs/hr-law-watch)** — labor and employment law.
-
-### Podcasts
-
-- **Business Better** — firm-wide podcast covering business and legal developments.
-- **Consumer Finance Monitor Podcast** — companion to the Consumer Finance Monitor blog.
-
-## APIs
-
-Ballard Spahr publishes **no public developer API**. There is no developer portal, SDK, OpenAPI/AsyncAPI specification, JSON Schema, GraphQL endpoint, webhooks, status page, changelog, or GitHub organization (`github.com/ballardspahr` returns 404). The only machine-readable surface produced by the firm is the **Consumer Finance Monitor RSS 2.0 feed** at https://www.consumerfinancemonitor.com/feed/.
-
-This repository profiles the firm itself — its practice areas, offices, merger history, and thought-leadership properties — rather than a developer-facing API surface.
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.ballardspahr.com)
-- [About](https://www.ballardspahr.com/about-us)
-- [Services](https://www.ballardspahr.com/services)
-- [People](https://www.ballardspahr.com/people)
-- [Offices](https://www.ballardspahr.com/offices)
-- [Insights](https://www.ballardspahr.com/insights)
-- [Consumer Finance Monitor Blog](https://www.consumerfinancemonitor.com)
-- [Consumer Finance Monitor RSS](https://www.consumerfinancemonitor.com/feed/)
-- [Podcasts](https://www.ballardspahr.com/insights/podcasts)
-- [LinkedIn](https://www.linkedin.com/company/ballard-spahr-llp)
-- [Wikipedia](https://en.wikipedia.org/wiki/Ballard_Spahr)
-- [Contact](https://www.ballardspahr.com/contact)
+- [Blog](https://www.consumerfinancemonitor.com)
 
-## Tags
+## API Evangelist rating
 
-Banking, Bankruptcy, Class Action, Commercial Litigation, Consumer Financial Services, Corporate, CFPB, Cybersecurity, Data Privacy, Employment Law, Environmental, ESG, Finance, Fintech, Government Affairs, Healthcare, Intellectual Property, Labor, Law, Law Firm, Legal, Legal Services, Litigation, Mergers and Acquisitions, Mortgage, Privacy, Private Equity, Public Finance, Real Estate, Real Estate Finance, Regulatory, REITs, Securities, Tax, Trademarks, White Collar Defense.
+**Kin Score 2.9** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Timestamps
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
 
-- **Created:** 2026-05-23
-- **Modified:** 2026-05-23
+**Agent readiness 0.0** — human-only
 
-## Maintainers
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Regulatory alignment 4.7** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ballard-spahr/](https://apis.io/providers/ballard-spahr/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ballard Spahr: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ballard-spahr/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
